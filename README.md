@@ -4,7 +4,7 @@ This project focuses on web scraping product data from the Nykaa website using P
 
 The objective of this project is to demonstrate real-world data collection, data cleaning, and analytical skills using Python.
 
-🎯 Objectives
+ Objectives
 
 Scrape product-level data from Nykaa
 
@@ -16,7 +16,7 @@ Perform exploratory data analysis (EDA)
 
 Derive actionable insights for business understanding
 
-🧰 Tools & Technologies
+Tools & Technologies
 
 Python
 
@@ -32,7 +32,7 @@ Matplotlib / Seaborn (if used)
 
 Jupyter Notebook
 
-📂 Data Collected
+ Data Collected
 
 The following attributes were extracted from the Nykaa website:
 
@@ -50,7 +50,7 @@ Number of Reviews
 
 (Dataset created through web scraping; no external dataset used)
 
-🔍 Project Workflow
+Project Workflow
 
 Web Scraping
 
@@ -86,7 +86,7 @@ Observed price ranges across different product categories
 
 Highlighted products with high customer engagement
 
-📊 Key Insights
+ Key Insights
 
 Certain brands consistently receive higher ratings and review counts
 
@@ -96,8 +96,8 @@ Premium-priced products tend to have fewer but higher ratings
 
 (Insights may vary based on scraped data)
 
-📎 Project Deliverables
+ Project Deliverables
 
-📘 Jupyter Notebook with complete code
+ Jupyter Notebook with complete code
 
-📄 Cleaned dataset (CSV)
+ Cleaned dataset (CSV)
