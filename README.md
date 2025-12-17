@@ -1,10 +1,10 @@
-Project Overview
+**Project Overview**
 
 This project focuses on web scraping product data from the Nykaa website using Python and performing exploratory data analysis (EDA) to extract meaningful business insights related to pricing, ratings, and brand performance.
 
 The objective of this project is to demonstrate real-world data collection, data cleaning, and analytical skills using Python.
 
-🎯** Objectives**
+🎯 **Objectives**
 
 Scrape product-level data from Nykaa
 
@@ -16,7 +16,7 @@ Perform exploratory data analysis (EDA)
 
 Derive actionable insights for business understanding
 
-🧰 Tools & Technologies
+🧰 **Tools & Technologies**
 
 Python
 
@@ -32,7 +32,7 @@ Matplotlib / Seaborn (if used)
 
 Jupyter Notebook
 
-📂 Data Collected
+📂 **Data Collected**
 
 The following attributes were extracted from the Nykaa website:
 
@@ -50,9 +50,9 @@ Number of Reviews
 
 (Dataset created through web scraping; no external dataset used)
 
-🔍 Project Workflow
+🔍 **Project Workflow**
 
-Web Scraping
+**Web Scraping**
 
 Sent HTTP requests to Nykaa product pages
 
@@ -60,7 +60,7 @@ Parsed HTML content using BeautifulSoup
 
 Extracted relevant product information
 
-Data Cleaning
+**Data Cleaning**
 
 Handled missing and inconsistent values
 
@@ -68,7 +68,7 @@ Converted data types (price, ratings, reviews)
 
 Removed duplicates
 
-Exploratory Data Analysis (EDA)
+**Exploratory Data Analysis (EDA)**
 
 Analyzed price distribution across categories
 
@@ -78,7 +78,7 @@ Compared brand-level performance
 
 Visualized trends using Python libraries
 
-Insights & Findings
+**Insights & Findings**
 
 Identified popular brands based on ratings and reviews
 
@@ -86,7 +86,7 @@ Observed price ranges across different product categories
 
 Highlighted products with high customer engagement
 
-📊 Key Insights
+📊 **Key Insights**
 
 Certain brands consistently receive higher ratings and review counts
 
@@ -96,7 +96,7 @@ Premium-priced products tend to have fewer but higher ratings
 
 (Insights may vary based on scraped data)
 
-📎 Project Deliverables
+📎 **Project Deliverables**
 
 📘 Jupyter Notebook with complete code
 
